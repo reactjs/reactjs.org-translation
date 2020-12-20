@@ -1,5 +1,14 @@
 {
   "name": "Tagalog",
   "code": "tl",
-  "maintainers": ["elrimando", "lacson17", "ella-garcia", "marielpacada"]
+  "maintainers": [
+    "elrimando",
+    "lacson17", 
+    "ella-garcia", 
+    "marielpacada", 
+    "BosEriko", 
+    "jorenrui",
+    "TheoryOfNekomata",
+    "warrenca"
+  ]
 }
